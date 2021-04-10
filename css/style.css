@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+}
+
+
+header, footer, article, nav, div {
+    padding: 1.2em;
+    background: yellowgreen;
+    color: white;
+    }
+  #pageHeader {
+    grid-area: header;
+    background-color: fuchsia;
+    text-align: center;
+    }
+  #pageFooter {
+    grid-area: footer;
+    background-color: gray;
+    text-align: center;
+    }
+  #mainArticle { 
+    grid-area: article;  
+    background-color: aqua; 
+    text-align: center;   
+    }
+  #mainNav { 
+    grid-area: nav; 
+    background-color: brown;
+    text-align: center;
+    }
+  #siteAds { 
+    grid-area: ads;
+    background-color: indigo; 
+    text-align: center;
+    } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
